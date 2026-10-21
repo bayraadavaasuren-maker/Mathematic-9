@@ -1,0 +1,6 @@
+{
+  "name": "Cambridge Lower Secondary Mathematics Stage 9",
+  "description": "Complete interactive digital textbook and learning platform for all 15 chapters of Cambridge Lower Secondary Mathematics Learner's Book 9 & Workbook 9.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
